@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Cara-home-play-button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-13.3%" y="-11.7%" width="126.7%" height="126.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Wireframes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01a---Homepage-v2" transform="translate(-770.000000, -248.000000)" fill="#FFFFFF">
+            <g id="Cara-home-play-button" filter="url(#filter-1)" transform="translate(780.000000, 256.000000)">
+                <path d="M59.9999987,0 C26.814794,0 0,26.8147968 0,60.0000019 C0,93.185207 27.0083383,120 59.9999987,120 C92.9916592,120 120,92.9916627 120,60.0000019 C120,27.0083411 93.1852035,0 59.9999987,0 Z M59.9999987,114.210228 C30.0974069,114.210228 5.78977156,89.9025941 5.78977156,60.0000019 C5.78977156,30.0974098 30.0974069,5.78977544 59.9999987,5.78977544 C89.9025906,5.78977544 114.210225,30.0974098 114.210225,60.0000019 C114.210225,89.9025941 89.9025906,114.210228 59.9999987,114.210228 Z" id="Fill-1"></path>
+                <path d="M83.3500206,56.8748597 L46.6342329,38.4435047 C44.1100145,37.08308 41,39.0236795 41,41.9346428 L41,78.6014516 C41,81.5123125 44.1101427,83.4530144 46.6342329,82.0925897 L83.3500206,63.6612347 C86.2647698,62.5008724 86.2647698,58.2295227 83.3500206,56.8740915 L83.3500206,56.8748597 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
